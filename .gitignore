@@ -7,3 +7,6 @@ node_modules/
 card-maker.html
 cards/
 HANDOFF-brief.md
+HANDOFF-deploy.md
+_commit-msg.txt
+_git-tools.bat
